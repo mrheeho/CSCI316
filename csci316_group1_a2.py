@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """CSCI316_Group1_A2.ipynb
 
 ## CSCI316 Group Assignment 2
